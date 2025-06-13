@@ -18,5 +18,6 @@ For more information, check out each learning path to see the individual documen
 
 ## 🖥️ Tech Stack
 1. **Machine Learning 🧠**: TensorFlow, Scikit-Learn, Keras, Numpy, Pandas, and Matplotlib
-2. **Front End Back End 📱**: Laravel
+2. **Front End Back End 📱**: React, Vite, and Tailwind
+
 
