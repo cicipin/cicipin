@@ -17,9 +17,9 @@ Website telah berhasil dideploy dan dapat diakses melalui:
 ## 😎 Our Coolest Members
 
 |          Member           |  Student ID  |        Path        |                     Role                      |              GitHub Profile               |
-| :-----------------------: | :----------: | :----------------: | :-------------------------------------------: | :---------------------------------------: | --- |
+| :-----------------------: | :----------: | :----------------: | :-------------------------------------------: | :---------------------------------------: |
 |  Muchammad Udin Mustofa   | MC008D5Y2338 |  Machine Learning  | Machine Learning Engineer and Project Manager |  [udintofa](https://github.com/udintofa)  |
-|     Salma Nurfauziah      | MC267D5X0340 |  Machine Learning  |           Machine Learning Engineer           |  [slmaaanf](https://github.com/slmaaanf)  |     |
+|     Salma Nurfauziah      | MC267D5X0340 |  Machine Learning  |           Machine Learning Engineer           |  [slmaaanf](https://github.com/slmaaanf)  |
 | Zerusealtin David Naibaho | MC589D5Y2493 |  Machine Learning  |           Machine Learning Engineer           |      [zeru](https://github.com/zeru)      |
 |       Raihan Ridho        | FC123D5Y2306 | Front End Back End |              Front End Back End               | [raihanrid](https://github.com/raihanrid) |
 
